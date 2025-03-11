@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-The GPPS (Genes to Predict Platinum response Signature) is a sophisticated random forest model that leverages a carefully selected panel of five genes—PAX2, TFPI2, APOA1, ADIRF, and CRISP3—to accurately predict the response to platinum-based chemotherapy in ovarian cancer patients.
+The GPPS (Genes to Predict Platinum response Signature) is a sophisticated random forest model that leverages a carefully selected panel of five genes (ADIRF,APOA1, CRISP3, PAX2 and TFPI2)to accurately predict the response to platinum-based chemotherapy in ovarian cancer patients.
 
 ## Requirements
 
