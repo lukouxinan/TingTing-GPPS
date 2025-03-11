@@ -6,13 +6,12 @@ The GPPS (Genes to Predict Platinum response Signature) is a sophisticated rando
 
 ## Requirements
 
-```
+
 + python3
 + pickle 
 + pandas
 + numpy
-+ scikit-learn
-```
+
 
 ## 2. Usage
 ```
